@@ -1,3 +1,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/corporio"]
+	path = themes/corporio
+	url = https://github.com/AminZibayi/Corporio.git
+[submodule "themes/vex-hugo"]
+	path = themes/vex-hugo
+	url = git@github.com:themefisher/vex-hugo.git
