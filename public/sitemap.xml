@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/en/sitemap.xml</loc>
     
       <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/fr/sitemap.xml</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/fr/sitemap.xml</loc>
     
       <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     

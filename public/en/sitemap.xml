@@ -2,259 +2,259 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/"
+                href="http://localhost:1313/idyllic_ragdoll/products/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/product-1/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/product-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/product-1/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/product-1/"
+                href="http://localhost:1313/idyllic_ragdoll/products/product-1/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/blog/post-3/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/blog/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-3/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/blog/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/blog/post-3/"
+                href="http://localhost:1313/idyllic_ragdoll/blog/post-3/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/product-2/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/product-2/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/product-2/"
+                href="http://localhost:1313/idyllic_ragdoll/products/product-2/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/blog/post-1/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/blog/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-1/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/blog/post-1/"
+                href="http://localhost:1313/idyllic_ragdoll/blog/post-1/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/product-4/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/product-4/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/product-4/"
+                href="http://localhost:1313/idyllic_ragdoll/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/product-7/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/product-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/product-7/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/product-7/"
+                href="http://localhost:1313/idyllic_ragdoll/products/product-4/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/product-8/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/product-7/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/product-8/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/product-8/"
+                href="http://localhost:1313/idyllic_ragdoll/products/product-7/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/blog/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/product-8/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/blog/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/blog/"
+                href="http://localhost:1313/idyllic_ragdoll/products/product-8/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/product-6/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/blog/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/product-6/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/product-6/"
+                href="http://localhost:1313/idyllic_ragdoll/blog/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/product-5/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/product-6/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/product-5/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/product-5/"
+                href="http://localhost:1313/idyllic_ragdoll/products/product-6/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/product-5/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/"
+                href="http://localhost:1313/idyllic_ragdoll/products/product-5/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/blog/post-4/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/blog/post-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-4/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/blog/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/blog/post-4/"
+                href="http://localhost:1313/idyllic_ragdoll/blog/post-4/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/blog/post-2/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/blog/post-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-2/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/blog/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/blog/post-2/"
+                href="http://localhost:1313/idyllic_ragdoll/blog/post-2/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/products/product-3/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/products/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/products/product-3/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/products/product-3/"
+                href="http://localhost:1313/idyllic_ragdoll/products/product-3/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/categories/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/categories/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/categories/"
+                href="http://localhost:1313/idyllic_ragdoll/categories/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/contact/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/contact/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/contact/"
+                href="http://localhost:1313/idyllic_ragdoll/contact/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/tags/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/tags/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/tags/"
+                href="http://localhost:1313/idyllic_ragdoll/tags/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/privacy-policy/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/privacy-policy/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/privacy-policy/"
+                href="http://localhost:1313/idyllic_ragdoll/privacy-policy/"
                 />
   </url><url>
-    <loc>https://demo.gethugothemes.com/vex/examplesite/terms-conditions/</loc>
+    <loc>http://localhost:1313/idyllic_ragdoll/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.gethugothemes.com/vex/examplesite/fr/terms-conditions/"
+                href="http://localhost:1313/idyllic_ragdoll/fr/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.gethugothemes.com/vex/examplesite/terms-conditions/"
+                href="http://localhost:1313/idyllic_ragdoll/terms-conditions/"
                 />
   </url>
 </urlset>

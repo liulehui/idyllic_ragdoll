@@ -1,9 +1,9 @@
 ################################### Default Configuration ############################
-baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
-title = "Vex | hugo landing page template"
+baseurl = "https://liulehui.github.io/idyllic_ragdoll/"
+title = "Idyllic Ragdoll Cattery"
 theme = "vex-hugo"
 # post excert
-summarylength = "20"
+summarylength = "70"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
@@ -105,6 +105,16 @@ weight = 4
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
+weight = 5
+
+[[Languages.en.menu.main]]
+name = "Queens"
+url = "queens/"
+weight = 5
+
+[[Languages.en.menu.main]]
+name = "Kings"
+url = "kings/"
 weight = 5
 
 # footer menu

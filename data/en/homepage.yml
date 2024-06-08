@@ -1,19 +1,20 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  title: "Idyllic Ragdoll"
+  content: "Love, professiona and caring Ragdoll Cattery. **CFA** Registered."
+  image: "images/ayla.JPG"
   button:
     enable: true
-    label: "Browse All Products"
-    link: "products/"
+    label: "Browse All Our Cats"
+    link: "cats/"
 
 ############################# Feature ############################
 features:
   enable: true
+  ### maybe 理念？
   title: "Our Core Features"
-  image: "images/watch-2.png"
+  image: "images/allthree.JPG"
 
   # feature at the left of the image
   left_side:
@@ -52,7 +53,7 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
+  image: "images/allthree.JPG"
   title: "Designed by professional , the benefit for creative gigs"
   content:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
@@ -63,7 +64,7 @@ promo:
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Why Choose US?"
   items:
     # about product item loop
     - image: "images/showcase/showcase-4.png"
@@ -92,13 +93,13 @@ about_product:
 #################################### Products ########################
 products:
   enable: true
-  title: "Checkout Our All Products"
+  title: "Checkout Our All Cats"
 
 ################################## Subscription ###################
 subscription:
   enable: true
-  bg_image: "images/call-to-action.jpg"
-  title: "Get Product Updates"
+  bg_image: "images/allthree.JPG"
+  title: "Get Updates!"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
   placeholder: "Your Email Address Here"
 

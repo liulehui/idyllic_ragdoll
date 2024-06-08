@@ -1,96 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vex | hugo landing page template</title>
-    <link>https://demo.gethugothemes.com/vex/examplesite/fr/</link>
-    <description>Recent content on Vex | hugo landing page template</description>
+    <title>Idyllic Ragdoll Cattery</title>
+    <link>http://localhost:1313/idyllic_ragdoll/fr/</link>
+    <description>Recent content on Idyllic Ragdoll Cattery</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    <atom:link href="https://demo.gethugothemes.com/vex/examplesite/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/idyllic_ragdoll/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple Watch</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-1/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-1/</guid>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/products/product-1/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     <item>
       <title>Comment choisir la bonne montre pour vous.</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-1/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/blog/post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
       <title>Galaxy Watch</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-2/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-2/</guid>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/products/product-2/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     <item>
       <title>Meilleur bracelet de montre dans votre budget</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-3/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/blog/post-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/blog/post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
       <title>Motorola Watch</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-4/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/products/product-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-4/</guid>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/products/product-4/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     <item>
       <title>OnePlus Watch</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-7/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/products/product-7/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-7/</guid>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/products/product-7/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     <item>
       <title>Oppo Watch</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-8/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/products/product-8/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-8/</guid>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/products/product-8/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     <item>
       <title>Pourquoi acheter une montre intelligente.</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-2/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/blog/post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
       <title>Realme Watch</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-6/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/products/product-6/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-6/</guid>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/products/product-6/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     <item>
       <title>Redmi Watch</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-5/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/products/product-5/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-5/</guid>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/products/product-5/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     <item>
       <title>Regardez ça compte</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-4/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/blog/post-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/blog/post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/blog/post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
       <title>Xiaomi Watch</title>
-      <link>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-3/</link>
+      <link>http://localhost:1313/idyllic_ragdoll/fr/products/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/vex/examplesite/fr/products/product-3/</guid>
+      <guid>http://localhost:1313/idyllic_ragdoll/fr/products/product-3/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
   </channel>
