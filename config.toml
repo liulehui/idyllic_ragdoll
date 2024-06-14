@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://localhost:1313/idyllic_ragdoll/"
+baseurl = "https://liulehui.github.io/idyllic_ragdoll/"
 title = "Idyllic Ragdoll Cattery"
 theme = "vex-hugo"
 # post excert
