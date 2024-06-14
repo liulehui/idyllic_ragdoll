@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terms &amp; Conditions on Idyllic Ragdoll Cattery</title>
-    <link>http://localhost:1313/idyllic_ragdoll/fr/terms-conditions/</link>
+    <link>https://liulehui.github.io/idyllic_ragdoll/fr/terms-conditions/</link>
     <description>Recent content in Terms &amp; Conditions on Idyllic Ragdoll Cattery</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
-    <atom:link href="http://localhost:1313/idyllic_ragdoll/fr/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liulehui.github.io/idyllic_ragdoll/fr/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

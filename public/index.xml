@@ -10,13 +10,6 @@
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/idyllic_ragdoll/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-1/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
       <title>Best Watch Strap In Your Budget</title>
       <link>http://localhost:1313/idyllic_ragdoll/blog/post-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
@@ -24,11 +17,116 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
-      <title>Galaxy Watch</title>
+      <title>Cat 1</title>
+      <link>http://localhost:1313/idyllic_ragdoll/cats/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/cats/product-1/</guid>
+      <description>Ragdoll 1.</description>
+    </item>
+    <item>
+      <title>Cat 1</title>
+      <link>http://localhost:1313/idyllic_ragdoll/kittens/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/kittens/product-1/</guid>
+      <description>Ragdoll 1.</description>
+    </item>
+    <item>
+      <title>Cat 1</title>
+      <link>http://localhost:1313/idyllic_ragdoll/products/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/products/product-1/</guid>
+      <description>Ragdoll 1.</description>
+    </item>
+    <item>
+      <title>Cat 1</title>
+      <link>http://localhost:1313/idyllic_ragdoll/queens/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/queens/product-1/</guid>
+      <description>Ragdoll 1.</description>
+    </item>
+    <item>
+      <title>Cat 2.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/cats/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/cats/product-2/</guid>
+      <description>Cat 2.</description>
+    </item>
+    <item>
+      <title>Cat 2.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/kittens/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/kittens/product-2/</guid>
+      <description>Cat 2.</description>
+    </item>
+    <item>
+      <title>Cat 2.</title>
       <link>http://localhost:1313/idyllic_ragdoll/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/products/product-2/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <description>Cat 2.</description>
+    </item>
+    <item>
+      <title>Cat 2.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/queens/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/queens/product-2/</guid>
+      <description>Cat 2.</description>
+    </item>
+    <item>
+      <title>Cat 3.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/cats/product-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/cats/product-3/</guid>
+      <description>Cat 3.</description>
+    </item>
+    <item>
+      <title>Cat 3.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/kittens/product-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/kittens/product-3/</guid>
+      <description>Cat 3.</description>
+    </item>
+    <item>
+      <title>Cat 3.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/products/product-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/products/product-3/</guid>
+      <description>Cat 3.</description>
+    </item>
+    <item>
+      <title>Cat 3.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/queens/product-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/queens/product-3/</guid>
+      <description>Cat 3.</description>
+    </item>
+    <item>
+      <title>Cat 4.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/cats/product-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/cats/product-4/</guid>
+      <description>Cat 4.</description>
+    </item>
+    <item>
+      <title>Cat 4.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/kittens/product-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/kittens/product-4/</guid>
+      <description>Cat 4.</description>
+    </item>
+    <item>
+      <title>Cat 4.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/products/product-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/products/product-4/</guid>
+      <description>Cat 4.</description>
+    </item>
+    <item>
+      <title>Cat 4.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/queens/product-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/queens/product-4/</guid>
+      <description>Cat 4.</description>
     </item>
     <item>
       <title>How to choose right watch for you.</title>
@@ -38,39 +136,18 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
-      <title>Motorola Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-4/</link>
+      <title>King 1</title>
+      <link>http://localhost:1313/idyllic_ragdoll/kings/king-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-4/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>http://localhost:1313/idyllic_ragdoll/kings/king-1/</guid>
+      <description>King 1.</description>
     </item>
     <item>
-      <title>OnePlus Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-7/</link>
+      <title>King 2.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/kings/king-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-7/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
-      <title>Oppo Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-8/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-8/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
-      <title>Realme Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-6/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-6/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
-      <title>Redmi Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-5/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-5/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>http://localhost:1313/idyllic_ragdoll/kings/king-2/</guid>
+      <description>King 2.</description>
     </item>
     <item>
       <title>Watch That Matters</title>
@@ -85,13 +162,6 @@
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/blog/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
-    </item>
-    <item>
-      <title>Xiaomi Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-3/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-3/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
   </channel>
 </rss>

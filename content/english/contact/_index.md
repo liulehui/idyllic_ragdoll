@@ -1,12 +1,12 @@
 ---
 title: "Contact"
-description : "this is a meta description"
+description : "Please follow us on the platforms."
 
 office:
   title : "Central Office"
   mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
+  email : "idyllicragdoll@email.com"
+  location : "Bellevue, WA"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
 
 # opennig hour

@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Idyllic Ragdoll"
-  content: "Love, professiona and caring Ragdoll Cattery. **CFA** Registered."
+  content: "Love, professional and caring Ragdoll Cattery. **CFA** Registered."
   image: "images/ayla.JPG"
   button:
     enable: true
@@ -24,14 +24,14 @@ features:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    # - title: "Elegant Design"
+    #   icon: "tf-ion-ios-bell-outline"
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    # - title: "Easy Pricing"
+    #   icon: "tf-ion-ios-cart-outline"
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
   # feature at the right of the image
   right_side:
@@ -41,14 +41,14 @@ features:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    # - title: "Elegant Design"
+    #   icon: "tf-ion-ios-bell-outline"
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    #   # feature item loop
+    # - title: "Easy Pricing"
+    #   icon: "tf-ion-ios-cart-outline"
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
 ############################# promo ############################
 promo:

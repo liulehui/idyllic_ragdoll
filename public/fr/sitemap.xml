@@ -2,259 +2,219 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/"
+                href="https://liulehui.github.io/idyllic_ragdoll/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/product-1/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/product-1/"
+                href="https://liulehui.github.io/idyllic_ragdoll/products/product-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-1/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/product-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/blog/post-1/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/blog/post-1/"
+                href="https://liulehui.github.io/idyllic_ragdoll/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/blog/post-1/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/product-2/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/product-2/"
+                href="https://liulehui.github.io/idyllic_ragdoll/products/product-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-2/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/product-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/"
+                href="https://liulehui.github.io/idyllic_ragdoll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/blog/post-3/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/blog/post-3/"
+                href="https://liulehui.github.io/idyllic_ragdoll/blog/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/blog/post-3/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/product-4/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/product-4/"
+                href="https://liulehui.github.io/idyllic_ragdoll/products/product-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-4/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/product-4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/product-7/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-7/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-8/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/product-7/"
+                href="https://liulehui.github.io/idyllic_ragdoll/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-7/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/product-8/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/product-8/"
+                href="https://liulehui.github.io/idyllic_ragdoll/blog/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-8/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/blog/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-6/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-5/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/blog/"
+                href="https://liulehui.github.io/idyllic_ragdoll/blog/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/blog/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/blog/post-2/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/blog/post-2/"
+                href="https://liulehui.github.io/idyllic_ragdoll/products/product-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/blog/post-2/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/product-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/product-6/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/product-6/"
+                href="https://liulehui.github.io/idyllic_ragdoll/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-6/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/product-5/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/product-5/"
+                href="https://liulehui.github.io/idyllic_ragdoll/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-5/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/blog/post-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/blog/post-4/"
+                href="https://liulehui.github.io/idyllic_ragdoll/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/blog/post-4/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/products/product-3/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/products/product-3/"
+                href="https://liulehui.github.io/idyllic_ragdoll/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/products/product-3/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/privacy-policy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/categories/</loc>
+    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/categories/"
+                href="https://liulehui.github.io/idyllic_ragdoll/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/contact/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/privacy-policy/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/fr/terms-conditions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/idyllic_ragdoll/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/idyllic_ragdoll/fr/terms-conditions/"
+                href="https://liulehui.github.io/idyllic_ragdoll/fr/terms-conditions/"
                 />
   </url>
 </urlset>

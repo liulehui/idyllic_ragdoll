@@ -10,60 +10,32 @@
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/idyllic_ragdoll/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Watch</title>
+      <title>Cat 1</title>
       <link>http://localhost:1313/idyllic_ragdoll/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/products/product-1/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <description>Ragdoll 1.</description>
     </item>
     <item>
-      <title>Galaxy Watch</title>
+      <title>Cat 2.</title>
       <link>http://localhost:1313/idyllic_ragdoll/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/products/product-2/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <description>Cat 2.</description>
     </item>
     <item>
-      <title>Motorola Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-4/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-4/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
-      <title>OnePlus Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-7/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-7/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
-      <title>Oppo Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-8/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-8/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
-      <title>Realme Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-6/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-6/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
-      <title>Redmi Watch</title>
-      <link>http://localhost:1313/idyllic_ragdoll/products/product-5/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/products/product-5/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    <item>
-      <title>Xiaomi Watch</title>
+      <title>Cat 3.</title>
       <link>http://localhost:1313/idyllic_ragdoll/products/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/products/product-3/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <description>Cat 3.</description>
+    </item>
+    <item>
+      <title>Cat 4.</title>
+      <link>http://localhost:1313/idyllic_ragdoll/products/product-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/products/product-4/</guid>
+      <description>Cat 4.</description>
     </item>
   </channel>
 </rss>
