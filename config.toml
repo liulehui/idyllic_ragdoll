@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://liulehui.github.io/idyllic_ragdoll/"
+baseurl = "https://liulehui.github.com/idyllic_ragdoll/"
 title = "Idyllic Ragdoll Cattery"
 theme = "vex-hugo"
 # post excert
@@ -103,9 +103,9 @@ weight = 3
 # weight = 4
 
 [[Languages.en.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 7
+name = "Kings"
+url = "kings/"
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "Queens"
@@ -113,14 +113,14 @@ url = "queens/"
 weight = 5
 
 [[Languages.en.menu.main]]
-name = "Kings"
-url = "kings/"
-weight = 4
-
-[[Languages.en.menu.main]]
 name = "Kittens"
 url = "kittens/"
 weight = 6
+
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 7
 
 # footer menu
 [[Languages.en.menu.footer]]
