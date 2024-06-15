@@ -25,23 +25,9 @@
     </item>
     <item>
       <title>Cat 1</title>
-      <link>http://localhost:1313/idyllic_ragdoll/kittens/product-1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/kittens/product-1/</guid>
-      <description>Ragdoll 1.</description>
-    </item>
-    <item>
-      <title>Cat 1</title>
       <link>http://localhost:1313/idyllic_ragdoll/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/products/product-1/</guid>
-      <description>Ragdoll 1.</description>
-    </item>
-    <item>
-      <title>Cat 1</title>
-      <link>http://localhost:1313/idyllic_ragdoll/queens/product-1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/queens/product-1/</guid>
       <description>Ragdoll 1.</description>
     </item>
     <item>
@@ -53,23 +39,9 @@
     </item>
     <item>
       <title>Cat 2.</title>
-      <link>http://localhost:1313/idyllic_ragdoll/kittens/product-2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/kittens/product-2/</guid>
-      <description>Cat 2.</description>
-    </item>
-    <item>
-      <title>Cat 2.</title>
       <link>http://localhost:1313/idyllic_ragdoll/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/products/product-2/</guid>
-      <description>Cat 2.</description>
-    </item>
-    <item>
-      <title>Cat 2.</title>
-      <link>http://localhost:1313/idyllic_ragdoll/queens/product-2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/queens/product-2/</guid>
       <description>Cat 2.</description>
     </item>
     <item>
@@ -81,23 +53,9 @@
     </item>
     <item>
       <title>Cat 3.</title>
-      <link>http://localhost:1313/idyllic_ragdoll/kittens/product-3/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/kittens/product-3/</guid>
-      <description>Cat 3.</description>
-    </item>
-    <item>
-      <title>Cat 3.</title>
       <link>http://localhost:1313/idyllic_ragdoll/products/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/products/product-3/</guid>
-      <description>Cat 3.</description>
-    </item>
-    <item>
-      <title>Cat 3.</title>
-      <link>http://localhost:1313/idyllic_ragdoll/queens/product-3/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/queens/product-3/</guid>
       <description>Cat 3.</description>
     </item>
     <item>
@@ -109,23 +67,9 @@
     </item>
     <item>
       <title>Cat 4.</title>
-      <link>http://localhost:1313/idyllic_ragdoll/kittens/product-4/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/kittens/product-4/</guid>
-      <description>Cat 4.</description>
-    </item>
-    <item>
-      <title>Cat 4.</title>
       <link>http://localhost:1313/idyllic_ragdoll/products/product-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/products/product-4/</guid>
-      <description>Cat 4.</description>
-    </item>
-    <item>
-      <title>Cat 4.</title>
-      <link>http://localhost:1313/idyllic_ragdoll/queens/product-4/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/queens/product-4/</guid>
       <description>Cat 4.</description>
     </item>
     <item>
@@ -141,6 +85,20 @@
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/idyllic_ragdoll/kings/king_1/</guid>
       <description>King 1.</description>
+    </item>
+    <item>
+      <title>Kitten 1</title>
+      <link>http://localhost:1313/idyllic_ragdoll/kittens/kitten_1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/kittens/kitten_1/</guid>
+      <description>Kitten 1.</description>
+    </item>
+    <item>
+      <title>Queen 1</title>
+      <link>http://localhost:1313/idyllic_ragdoll/queens/queen_1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/idyllic_ragdoll/queens/queen_1/</guid>
+      <description>Queen 1.</description>
     </item>
     <item>
       <title>Watch That Matters</title>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Check out all our kings! on Idyllic Ragdoll Cattery</title>
-    <link>http://localhost:1313/idyllic_ragdoll/queens/</link>
+    <link>http://localhost:1313/idyllic_ragdoll/kings-copy/</link>
     <description>Recent content in Check out all our kings! on Idyllic Ragdoll Cattery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/idyllic_ragdoll/queens/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/idyllic_ragdoll/kings-copy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Queen 1</title>
-      <link>http://localhost:1313/idyllic_ragdoll/queens/queen_1/</link>
+      <title>King 1</title>
+      <link>http://localhost:1313/idyllic_ragdoll/kings-copy/king_1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/queens/queen_1/</guid>
-      <description>Queen 1.</description>
+      <guid>http://localhost:1313/idyllic_ragdoll/kings-copy/king_1/</guid>
+      <description>King 1.</description>
     </item>
   </channel>
 </rss>
