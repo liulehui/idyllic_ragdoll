@@ -8,61 +8,37 @@
     <loc>http://localhost:1313/idyllic_ragdoll/products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/idyllic_ragdoll/queens/queen_1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/blog/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/cats/product-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/kittens/product-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/products/product-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/queens/product-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/cats/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/kittens/product-2/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/products/product-2/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/queens/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/cats/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/kittens/product-3/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/products/product-3/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/queens/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/cats/product-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/kittens/product-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/products/product-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/queens/product-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/kings/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/idyllic_ragdoll/kittens/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/queens/</loc>
@@ -77,7 +53,13 @@
     <loc>http://localhost:1313/idyllic_ragdoll/kings/king_1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/idyllic_ragdoll/queens/queen_2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/blog/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/idyllic_ragdoll/kings/king_2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/blog/post-4/</loc>
@@ -87,6 +69,8 @@
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/idyllic_ragdoll/kittens/</loc>
   </url><url>
     <loc>http://localhost:1313/idyllic_ragdoll/contact/</loc>
   </url><url>

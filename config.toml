@@ -57,7 +57,7 @@ preloader = "" # use .png , .svg or .gif format
 
 # Snipcart
 [params.snipcart]
-enable = true
+enable = false
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
@@ -86,15 +86,12 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[Languages.en.menu.main]]
-name = "Products"
-url = "products/"
-weight = 2
+# [[Languages.en.menu.main]]
+# name = "Products"
+# url = "products/"
+# weight = 2
 
-[[Languages.en.menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 3
+
 
 # [[Languages.en.menu.main]]
 # name = "Review"
@@ -122,11 +119,16 @@ name = "Contact"
 url = "contact/"
 weight = 7
 
+# [[Languages.en.menu.main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 8
+
 # footer menu
-[[Languages.en.menu.footer]]
-name = "Blog"
-url = "blog/"
-weight = 1
+# [[Languages.en.menu.footer]]
+# name = "Blog"
+# url = "blog/"
+# weight = 1
 
 [[Languages.en.menu.footer]]
 name = "Contact"

@@ -1,5 +1,5 @@
 ---
-title: "Check out all our kings!"
+title: "Check out all our kittens!"
 description : "this is a meta description"
 draft: false
 ---
