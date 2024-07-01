@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Check out all our queens! on Idyllic Ragdoll Cattery</title>
-    <link>http://localhost:1313/idyllic_ragdoll/queens/</link>
+    <link>https://idyllicragdoll.com/queens/</link>
     <description>Recent content in Check out all our queens! on Idyllic Ragdoll Cattery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/idyllic_ragdoll/queens/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://idyllicragdoll.com/queens/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ayla</title>
-      <link>http://localhost:1313/idyllic_ragdoll/queens/queen_1/</link>
+      <link>https://idyllicragdoll.com/queens/queen_1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/queens/queen_1/</guid>
+      <guid>https://idyllicragdoll.com/queens/queen_1/</guid>
       <description>My name is Ayla.</description>
     </item>
     <item>
       <title>Miya</title>
-      <link>http://localhost:1313/idyllic_ragdoll/queens/queen_2/</link>
+      <link>https://idyllicragdoll.com/queens/queen_2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/idyllic_ragdoll/queens/queen_2/</guid>
+      <guid>https://idyllicragdoll.com/queens/queen_2/</guid>
       <description>My name is Miya.</description>
     </item>
   </channel>

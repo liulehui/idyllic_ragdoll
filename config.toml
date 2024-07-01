@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://liulehui.github.com/idyllic_ragdoll/"
+baseurl = "https://idyllicragdoll.com"
 title = "Idyllic Ragdoll Cattery"
 theme = "vex-hugo"
 # post excert

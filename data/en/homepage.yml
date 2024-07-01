@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Idyllic Ragdoll"
-  content: "Idyllic Ragdoll is a family base ragdoll cat breeder which is registered with **CFA**. Each of our sires and dams goes through DNA tests by Optimal Selection and has tested negative for HCM and PKD to ensure the high quality of Ragdolls. All our kittens have up-to-date vaccines, CFA or TICA registration paperwork, etc. We are located in Seattle."
+  content: "We are a family-based Ragdoll cat breeder registered with the Cat Fanciers’ Association (CFA). All our sires and dams undergo DNA testing and have been certified negative for HCM and PKD, ensuring the health and high quality of our Ragdolls. Our kittens receive up-to-date vaccinations, veterinary examinations, and come with CFA certificates. Raised in a loving and caring environment, our Ragdolls are known for their gentle and friendly nature. We ensure that each kitten is well-socialized with humans and other pets. We also provide ongoing support and guidance for new cat owners. We are located in Seattle. For more information, please visit our website or contact us directly."
   image: "images/ayla.JPG"
   button:
     enable: true
@@ -55,7 +55,9 @@ promo:
   image: "images/allthree.JPG"
   title: "About US"
   content:
-    "Idyllic Ragdoll is a family base ragdoll cat breeder which is registered with CFA. Each of our sires and dams goes through DNA tests by Optimal Selection and has tested negative for HCM and PKD to ensure the high quality of Ragdolls. All our kittens have up-to-date vaccines, CFA or TICA registration paperwork, etc. We are located in Seattle."
+    "Our journey began in 2018, and since then, we have dedicated ourselves to breeding high-quality, sweet, healthy Ragdolls with excellent personalities. With years of experience, we take pride in having placed many of our kittens in loving homes across the United States and around the world.\n\n
+Our goal is to maintain and enhance the traditional Ragdoll lineage, ensuring that each cat embodies the breed’s renowned gentle and friendly nature. All of our cats live with us in our spacious home, where they are treated as beloved family members. We do not believe in caging our cats; instead, they have the freedom to roam and play, sometimes enjoying our large backyard.\n\n
+We are committed to providing a nurturing environment for our Ragdolls, allowing them to thrive and develop into well-socialized companions. To ensure the well-being of our cats, we limit the number of litters each year, giving our parent cats ample rest and the opportunity to produce high-quality kittens. This dedication to their health and happiness is reflected in the joy and satisfaction of our clients."
 
 ############################# About Product #######################
 about_product:
