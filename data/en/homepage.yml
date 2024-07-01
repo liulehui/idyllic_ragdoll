@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: "Our Core Features"
-  image: "images/cfa_registration.png"
+  image: "images/cfa_registration.JPG"
 
   # feature at the left of the image
   left_side:

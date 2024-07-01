@@ -5,6 +5,7 @@ images:
   - "images/kings/leo_1.jpg"
   - "images/kings/leo_2.jpg"
   - "images/kings/leo_3.jpg"
+  - "images/kings/leo_4.jpg"
 
 # meta description
 description : "this is meta description"
@@ -27,4 +28,8 @@ birthday: ""
 draft: false
 ---
 
-Leo is our favorable one.
+Introducing Leo, our handsome blue mitted Ragdoll king. Leo is distinguished by his mesmerizing blue eyes and pluffy coat, but it’s his intelligence that truly sets him apart. Extremely smart and curious, Leo loves to explore and engage in interactive play.
+
+Leo also comes from a champion lineage and is DNA tested negative for HCM and PKD. His excellent health, combined with his sharp mind and friendly nature, makes him an outstanding sire for our kittens. Leo enjoys playing in the snow and discovering new things in our large backyard.
+
+We are proud of Leo and the exceptional kittens he sires, who inherit his intelligence, beauty, and friendly demeanor.
