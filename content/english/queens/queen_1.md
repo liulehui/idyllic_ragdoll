@@ -3,8 +3,8 @@ title: "Ayla"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/queens/ayla_1.jpg"
+  - "images/queens/ayla_2.jpg"
   - "images/queens/ayla_3.JPG"
-  - "images/queens/ayla_2.JPG"
   
 
 # meta description
