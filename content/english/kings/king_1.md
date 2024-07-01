@@ -5,7 +5,7 @@ images:
   - "images/kings/leo_1.jpg"
   - "images/kings/leo_2.jpg"
   - "images/kings/leo_3.jpg"
-  - "images/kings/leo_4.jpg"
+  - "images/kings/leo_4.JPG"
 
 # meta description
 description : "this is meta description"
