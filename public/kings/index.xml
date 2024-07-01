@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Check out all our kings! on Idyllic Ragdoll Cattery</title>
-    <link>https://idyllicragdoll.com/kings/</link>
+    <link>http://localhost:1313/kings/</link>
     <description>Recent content in Check out all our kings! on Idyllic Ragdoll Cattery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    <atom:link href="https://idyllicragdoll.com/kings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/kings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leo</title>
-      <link>https://idyllicragdoll.com/kings/king_1/</link>
+      <link>http://localhost:1313/kings/king_1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/kings/king_1/</guid>
+      <guid>http://localhost:1313/kings/king_1/</guid>
       <description>Leo is our favorable one.</description>
     </item>
     <item>
       <title>Roma</title>
-      <link>https://idyllicragdoll.com/kings/king_2/</link>
+      <link>http://localhost:1313/kings/king_2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/kings/king_2/</guid>
+      <guid>http://localhost:1313/kings/king_2/</guid>
       <description>Roma is our youngest one.</description>
     </item>
   </channel>

@@ -2,123 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Idyllic Ragdoll Cattery</title>
-    <link>https://idyllicragdoll.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Idyllic Ragdoll Cattery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    <atom:link href="https://idyllicragdoll.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ayla</title>
-      <link>https://idyllicragdoll.com/queens/queen_1/</link>
+      <link>http://localhost:1313/queens/queen_1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/queens/queen_1/</guid>
+      <guid>http://localhost:1313/queens/queen_1/</guid>
       <description>My name is Ayla.</description>
     </item>
     <item>
       <title>Best Watch Strap In Your Budget</title>
-      <link>https://idyllicragdoll.com/blog/post-3/</link>
+      <link>http://localhost:1313/blog/post-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/blog/post-3/</guid>
+      <guid>http://localhost:1313/blog/post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
       <title>Cat 1</title>
-      <link>https://idyllicragdoll.com/cats/product-1/</link>
+      <link>http://localhost:1313/cats/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/cats/product-1/</guid>
+      <guid>http://localhost:1313/cats/product-1/</guid>
       <description>Ragdoll 1.</description>
     </item>
     <item>
       <title>Cat 1</title>
-      <link>https://idyllicragdoll.com/products/product-1/</link>
+      <link>http://localhost:1313/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/products/product-1/</guid>
+      <guid>http://localhost:1313/products/product-1/</guid>
       <description>Ragdoll 1.</description>
     </item>
     <item>
       <title>Cat 2.</title>
-      <link>https://idyllicragdoll.com/cats/product-2/</link>
+      <link>http://localhost:1313/cats/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/cats/product-2/</guid>
+      <guid>http://localhost:1313/cats/product-2/</guid>
       <description>Cat 2.</description>
     </item>
     <item>
       <title>Cat 2.</title>
-      <link>https://idyllicragdoll.com/products/product-2/</link>
+      <link>http://localhost:1313/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/products/product-2/</guid>
+      <guid>http://localhost:1313/products/product-2/</guid>
       <description>Cat 2.</description>
     </item>
     <item>
       <title>Cat 3.</title>
-      <link>https://idyllicragdoll.com/cats/product-3/</link>
+      <link>http://localhost:1313/cats/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/cats/product-3/</guid>
+      <guid>http://localhost:1313/cats/product-3/</guid>
       <description>Cat 3.</description>
     </item>
     <item>
       <title>Cat 3.</title>
-      <link>https://idyllicragdoll.com/products/product-3/</link>
+      <link>http://localhost:1313/products/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/products/product-3/</guid>
+      <guid>http://localhost:1313/products/product-3/</guid>
       <description>Cat 3.</description>
     </item>
     <item>
       <title>Cat 4.</title>
-      <link>https://idyllicragdoll.com/cats/product-4/</link>
+      <link>http://localhost:1313/cats/product-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/cats/product-4/</guid>
+      <guid>http://localhost:1313/cats/product-4/</guid>
       <description>Cat 4.</description>
     </item>
     <item>
       <title>Cat 4.</title>
-      <link>https://idyllicragdoll.com/products/product-4/</link>
+      <link>http://localhost:1313/products/product-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/products/product-4/</guid>
+      <guid>http://localhost:1313/products/product-4/</guid>
       <description>Cat 4.</description>
     </item>
     <item>
       <title>How to choose right watch for you.</title>
-      <link>https://idyllicragdoll.com/blog/post-1/</link>
+      <link>http://localhost:1313/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/blog/post-1/</guid>
+      <guid>http://localhost:1313/blog/post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
       <title>Leo</title>
-      <link>https://idyllicragdoll.com/kings/king_1/</link>
+      <link>http://localhost:1313/kings/king_1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/kings/king_1/</guid>
+      <guid>http://localhost:1313/kings/king_1/</guid>
       <description>Leo is our favorable one.</description>
     </item>
     <item>
       <title>Miya</title>
-      <link>https://idyllicragdoll.com/queens/queen_2/</link>
+      <link>http://localhost:1313/queens/queen_2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/queens/queen_2/</guid>
+      <guid>http://localhost:1313/queens/queen_2/</guid>
       <description>My name is Miya.</description>
     </item>
     <item>
       <title>Roma</title>
-      <link>https://idyllicragdoll.com/kings/king_2/</link>
+      <link>http://localhost:1313/kings/king_2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/kings/king_2/</guid>
+      <guid>http://localhost:1313/kings/king_2/</guid>
       <description>Roma is our youngest one.</description>
     </item>
     <item>
       <title>Watch That Matters</title>
-      <link>https://idyllicragdoll.com/blog/post-4/</link>
+      <link>http://localhost:1313/blog/post-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/blog/post-4/</guid>
+      <guid>http://localhost:1313/blog/post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     <item>
       <title>Why You Should Buy a Smart Watch.</title>
-      <link>https://idyllicragdoll.com/blog/post-2/</link>
+      <link>http://localhost:1313/blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>https://idyllicragdoll.com/blog/post-2/</guid>
+      <guid>http://localhost:1313/blog/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
   </channel>
