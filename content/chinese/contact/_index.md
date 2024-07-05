@@ -10,7 +10,7 @@ office:
   xiaohongshu: "小红书: Idyllic西雅图布偶猫舍"
   wechat: "微信号: idyllic_ragdoll"
   location : "Bellevue, WA"
-  content : "Even though we located in Seattle, We offer free delivery (with Nanny) to Seattle, WA/Portland, OR/Vancouver, BC/Boston, MA, We can also deliver to other states for extra costs."
+  content : "西雅图、波特兰、温哥华、波士顿免费送猫到家。其他地区可以付费运输。全美、全球可飞。"
 
 # opennig hour
 # opennig_hour:
