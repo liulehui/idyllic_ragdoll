@@ -2,219 +2,502 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/</loc>
+    <loc>http://localhost:1313/fr/cats/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/products/"
+                href="http://localhost:1313/cats/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/cats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/cats/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-1/</loc>
+    <loc>http://localhost:1313/fr/products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/products/product-1/"
+                href="http://localhost:1313/products/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/product-1/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/products/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-1/</loc>
+    <loc>http://localhost:1313/fr/queens/queen_1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/blog/post-1/"
+                href="http://localhost:1313/queens/queen_1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-1/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/queens/queen_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/queens/queen_1/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-2/</loc>
+    <loc>http://localhost:1313/fr/blog/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/products/product-2/"
+                href="http://localhost:1313/blog/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/product-2/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/blog/post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/blog/post-3/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/</loc>
+    <loc>http://localhost:1313/fr/cats/product-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/"
+                href="http://localhost:1313/cats/product-1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/cats/product-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/cats/product-1/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-3/</loc>
+    <loc>http://localhost:1313/fr/products/product-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/blog/post-3/"
+                href="http://localhost:1313/products/product-1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-3/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/product-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/products/product-1/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-4/</loc>
+    <loc>http://localhost:1313/fr/cats/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/products/product-4/"
+                href="http://localhost:1313/cats/product-2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/product-4/"
-                />
-  </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-7/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-8/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/blog/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/cats/product-2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/cats/product-2/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-2/</loc>
+    <loc>http://localhost:1313/fr/products/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/blog/post-2/"
+                href="http://localhost:1313/products/product-2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-2/"
-                />
-  </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-6/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-5/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/blog/post-4/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/product-2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/blog/post-4/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/products/product-2/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/products/product-3/</loc>
+    <loc>http://localhost:1313/fr/cats/product-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/products/product-3/"
+                href="http://localhost:1313/cats/product-3/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/products/product-3/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/cats/product-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/cats/product-3/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/categories/</loc>
+    <loc>http://localhost:1313/fr/products/product-3/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/categories/"
+                href="http://localhost:1313/products/product-3/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/categories/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/product-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/products/product-3/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/contact/</loc>
+    <loc>http://localhost:1313/fr/cats/product-4/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/contact/"
+                href="http://localhost:1313/cats/product-4/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/contact/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/cats/product-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/cats/product-4/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/tags/</loc>
+    <loc>http://localhost:1313/fr/products/product-4/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/tags/"
+                href="http://localhost:1313/products/product-4/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/tags/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/product-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/products/product-4/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/privacy-policy/</loc>
+    <loc>http://localhost:1313/fr/kings/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/privacy-policy/"
+                href="http://localhost:1313/kings/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/privacy-policy/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/kings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/kings/"
                 />
   </url><url>
-    <loc>https://liulehui.github.io/idyllic_ragdoll/fr/terms-conditions/</loc>
+    <loc>http://localhost:1313/fr/queens/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://liulehui.github.io/idyllic_ragdoll/terms-conditions/"
+                href="http://localhost:1313/queens/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://liulehui.github.io/idyllic_ragdoll/fr/terms-conditions/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/queens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/queens/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/blog/post-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/blog/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/blog/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/blog/post-1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/kings/king_1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/kings/king_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/kings/king_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/kings/king_1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/queens/queen_2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/queens/queen_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/queens/queen_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/queens/queen_2/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/blog/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/kings/king_2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/kings/king_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/kings/king_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/kings/king_2/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/blog/post-4/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/blog/post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/blog/post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/blog/post-4/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/blog/post-2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/blog/post-2/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/kittens/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/kittens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/kittens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/kittens/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/contact/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/privacy-policy/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/terms-conditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/fr/terms-conditions/"
                 />
   </url>
 </urlset>

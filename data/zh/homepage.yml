@@ -1,0 +1,137 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Idyllic Ragdoll"
+  content: "待定"
+  image: "images/ayla.JPG"
+  button:
+    enable: true
+    label: ""
+    link: "kings/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "Our Core Features"
+  image: "images/cfa_registration.JPG"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "Spray/Neuter"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Each kitten will be sprayed or neutered for [numerous health benefits](https://www.brown.edu/Research/Colwill_Lab/CBP/spaynueter.htm)."
+
+      # feature item loop
+    - title: "Health Guarantee"
+      icon: "tf-ion-ios-bell-outline"
+      content: "2-Year HCM & PKD Free Guarantee, 72-Hour Health Guarantee."
+
+      # feature item loop
+    - title: "Vaccinations&Prevention"
+      icon: "tf-ion-ios-bell-outline"
+      content: "Age Appropriate FVRCP, Rabbits, Dewormings + Parasite prevention with Health Record."
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "Deliver"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Free deliver to Seattle, WA/Portland, OR/Vancouver, BC/Bosten, MA, We can deliver to other states for extra costs."
+
+      # feature item loop
+    - title: "Paperwork"
+      icon: "tf-ion-ios-bell-outline"
+      content: "Official CFA Registration Paperwork, Idyllic Ragdoll Contract"
+
+    #   # feature item loop
+    - title: "On their way home."
+      icon: "tf-ion-ios-cart-outline"
+      content: "A Welcome-Home/Starter Package."
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/allthree.JPG"
+  title: "关于我们"
+  content:
+    "Our journey began in 2018, and since then, we have dedicated ourselves to breeding high-quality, sweet, healthy Ragdolls with excellent personalities. With years of experience, we take pride in having placed many of our kittens in loving homes across the United States and around the world.\n\n
+Our goal is to maintain and enhance the traditional Ragdoll lineage, ensuring that each cat embodies the breed’s renowned gentle and friendly nature. All of our cats live with us in our spacious home, where they are treated as beloved family members. We do not believe in caging our cats; instead, they have the freedom to roam and play, sometimes enjoying our large backyard.\n\n
+We are committed to providing a nurturing environment for our Ragdolls, allowing them to thrive and develop into well-socialized companions. To ensure the well-being of our cats, we limit the number of litters each year, giving our parent cats ample rest and the opportunity to produce high-quality kittens. This dedication to their health and happiness is reflected in the joy and satisfaction of our clients."
+
+############################# About Product #######################
+about_product:
+  enable: true
+  title: "关注我们！"
+  items:
+    # about product item loop
+    - image: "images/contact_us/ins.jpg"
+      title: "Instagram"
+      # content:
+      #   "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+      #   sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+      #   quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: true
+        label: "Instagram"
+        link: "https://www.instagram.com/idyllic_ragdoll?igsh=aWg1NTBlbzFkdXl1"
+
+    # about product item loop
+    - image: "images/contact_us/redbook.jpg"
+      title: "小红书"
+      # content:
+      #   "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+      #   sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+      #   quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: true
+        label: "小红书"
+        link: "https://www.xiaohongshu.com/user/profile/5b65bddc06825b00012f56d1?xhsshare=CopyLink&appuid=5b65bddc06825b00012f56d1&apptime=1718518059"
+
+    # about product item loop
+    - image: "images/contact_us/wechat.jpg"
+      title: "微信账号"
+      # content:
+      #   "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+      #   sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+      #   quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: true
+        label: "WeChat"
+        link: "https://www.xiaohongshu.com/user/profile/5b65bddc06825b00012f56d1?xhsshare=CopyLink&appuid=5b65bddc06825b00012f56d1&apptime=1718518059"
+
+#################################### Products ########################
+products:
+  enable: false
+  title: "Checkout Our All Cats"
+
+################################## Subscription ###################
+subscription:
+  enable: false
+  bg_image: "images/allthree.JPG"
+  title: "Get Updates!"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder: "Your Email Address Here"
+
+############################## Contact ##########################
+testimonial:
+  enable: false
+  title: "Watch Review"
+  testimonial_item:
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
