@@ -5,7 +5,7 @@ description : "Please follow us on the platforms."
 office:
   title: "联系我们！"
   mobile: "6462508213"
-  email: "idyllicragdoll@email.com"
+  email: "idyllicragdoll@gmail.com"
   instagram: "Instagram: idyllic_ragdoll"
   xiaohongshu: "小红书: Idyllic西雅图布偶猫舍"
   wechat: "微信号: idyllic_ragdoll"
