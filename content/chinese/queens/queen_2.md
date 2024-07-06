@@ -2,8 +2,8 @@
 title: "Miya"
 date: 2019-10-17T11:22:16+06:00
 images:
-  - "images/queens/miya_3.JPG" 
   - "images/queens/miya_4.JPG"
+  - "images/queens/miya_3.JPG" 
   - "images/queens/miya_5.JPG"
   - "images/queens/miya_1.jpg"
   - "images/queens/miya_2.jpg"
