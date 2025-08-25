@@ -2,11 +2,11 @@
 banner:
   enable: true
   title: "Idyllic Ragdoll"
-  content: "我们是一家家庭式布偶猫舍，注册于美国 Cat Fanciers’ Association (CFA)。猫舍执照官网可查，所有种猫带有CFA 繁育权，所有后代小猫带有CFA 血统、绝育出售。猫舍成立于2018年，位于美国西雅图和波士顿，只繁育布偶一个品种。我们把猫的健康和高品质放在首位，所有种猫都经过基因检测，未患有肥厚性心肌病 (HCM) 和多囊肾病 (PKD)。我们所有的幼猫在医院接种疫苗，并经过兽医检查，附有健康证明。猫舍坚持以传统线为基础，致力于繁育大体型、丝质毛的传统系布偶；在品标允许的范围内，加入甜美、灵动等元素。了解更多信息，请访问我们的网站或直接联系我们。"
-  image: "images/ayla.JPG"
+  content: 我们是一家家庭式布偶猫舍，注册于美国 Cat Fanciers’ Association (CFA)和 The International Cat Association (TICA)。猫舍执照官网可查，所有种猫带有CFA 繁育权，所有后代小猫带有CFA血统证书、绝育出售。猫舍成立于2018年，位于美国西雅图和湾区，只繁育布偶一个品种。我们把猫的健康和高品质放在首位，所有种猫都经过接近100多种基因检测，未患有肥厚性心肌病 (HCM) 和多囊肾病 (PKD)等。我们所有的幼猫在医院接种疫苗，并经过兽医检查，附有健康证明。猫舍坚持以传统线为基础，致力于繁育大体型、丝质毛的传统系布偶；在品标允许的范围内，加入甜美、灵动等元素。了解更多信息，请访问我们的网站或直接联系我们。
+  image: "images/family.JPG"
   button:
     enable: true
-    label: "查看我们的小猫"
+    label: "查看我们的猫猫"
     link: "kittens/"
 
 ############################# Feature ############################
@@ -20,34 +20,34 @@ features:
     # feature item loop
     - title: "绝育出售"
       icon: "tf-ion-ios-alarm-outline"
-      content: "所有小猫都将绝育出售，关于绝育的好处请看 [numerous health benefits](https://www.brown.edu/Research/Colwill_Lab/CBP/spaynueter.htm)."
+      content: "所有小猫都将绝育出售。关于绝育的好处请看： [numerous health benefits](https://www.brown.edu/Research/Colwill_Lab/CBP/spaynueter.htm)."
 
       # feature item loop
     - title: "健康保障"
-      icon: "tf-ion-ios-bell-outline"
-      content: "2年 HCM & PKD Free 保障, 72-Hour 保险."
+      icon: "tf-ion-ios-heart-outline"
+      content: "2年 HCM & PKD Free 保障, 72-Hour 健康保证。"
 
       # feature item loop
-    - title: "疫苗&驱虫"
+    - title: "疫苗 & 驱虫"
       icon: "tf-ion-ios-bell-outline"
-      content: "所有小猫在医院接种疫苗并经兽医体检，附有健康证明."
+      content: "所有小猫在医院接种3针FVRCP疫苗、1针狂犬疫苗，完成绝育、内外驱虫、打芯片，并经兽医体检，附有健康证明。"
 
   # feature at the right of the image
   right_side:
     # feature item loop
     - title: "免费运输"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "西雅图、波特兰、温哥华、波士顿免费Nanny送猫到家。其他地区可以付费运输。全美、全球可飞。"
+      icon: "tf-ion-ios-location-outline"
+      content: "湾区、洛杉矶、旧金山、西雅图、波特兰、波士顿、纽约免费亲自送猫到家。其他地区可以付费运输。全美、全球可飞。"
 
       # feature item loop
     - title: "血统证书"
-      icon: "tf-ion-ios-bell-outline"
+      icon: "tf-ion-ios-paw-outline"
       content: "所有小猫带有CFA血统证书，官网可查。"
 
     #   # feature item loop
-    - title: "两周试养&新手礼包"
-      icon: "tf-ion-ios-cart-outline"
-      content: "为了避免遗弃，我们提供两周试养期并提供新手礼包和新手指导。"
+    - title: "全面养宠指南"
+      icon: "tf-ion-ios-checkmark-outline"
+      content: "我们亲自编写了全面的养宠指南，为新手猫家长提供详细的护理指导和持续支持。"
 
 ############################# promo ############################
 promo:
@@ -55,11 +55,11 @@ promo:
   image: "images/allthree.JPG"
   # title: "关于我们"
   content:
-    "猫舍成立于2018年，致力于繁育高品质、甜美、健康、个性出色的布偶猫。猫舍主理人正在攻读博士学位， 养猫十余年，富有足够的专业知识，拒绝养猫焦虑，善于传输健康、简单、正确的养护知识。凭借多年的养护、繁育经验，我们的幼猫给全美甚至全球的温馨家庭带来了许多陪伴和欢乐。
+    "猫舍成立于2018年，致力于繁育高品质、甜美、健康、个性出色的布偶猫。猫舍主理人正在攻读博士学位， 养猫十余年，富有足够的专业知识。我们拒绝养猫焦虑，善于传输健康、简单、正确的养护知识。凭借多年的养护、繁育经验，我们的幼猫给全美甚至全球的温馨家庭带来了许多陪伴和欢乐。
 
 我们的目标是保持和提升传统布偶猫的血统，确保每只猫都具备该品种闻名的温柔和友善的天性。我们拒绝任何形式的笼养，所有的猫都与我们同吃同住，他们都是我们心爱的家庭成员。小猫咪们不仅与我们共享生活空间，我们还有一个巨大的后院给他们自由追逐、享受阳光、随意玩耍。
 
-为了确保猫咪的健康，我们每年限制猫咪繁育的窝次，给猫爸猫妈足够的休养时间，得以不断提高幼猫的健康和品质。猫舍坚持猫咪健康和服务家长为首，更希望与小猫家长形成互相交流、保持分享的朋友关系。我们拒绝任何形式的弃养，每只小猫都拥有两周试养期，保证小猫找到最合适的主人，并且给家长足够多的时间适应新角色。"
+为了确保猫咪的健康，我们每年限制猫咪繁育的窝次，给猫爸猫妈足够的休养时间，得以不断提高幼猫的健康和品质。猫舍坚持猫咪健康和服务家长为首，更希望与小猫家长形成互相交流、保持分享的朋友关系。我们拒绝任何形式的弃养, 会提供足够的售前售后咨询，保证小猫找到最合适的主人，给家长足够多的时间适应新角色。"
 
 ############################# About Product #######################
 about_product:

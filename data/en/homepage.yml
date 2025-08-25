@@ -2,8 +2,8 @@
 banner:
   enable: true
   title: "Idyllic Ragdoll"
-  content: "We are a family-based Ragdoll cat breeder registered with the Cat Fanciers’ Association (CFA). All our sires and dams undergo DNA testing and have been certified negative for HCM and PKD, ensuring the health and high quality of our Ragdolls. Our kittens receive up-to-date vaccinations, veterinary examinations, and come with CFA certificates. Raised in a loving and caring environment, our Ragdolls are known for their gentle and friendly nature. We ensure that each kitten is well-socialized with humans and other pets. We also provide ongoing support and guidance for new cat owners. We are located in Seattle. For more information, please visit our website or contact us directly."
-  image: "images/ayla.JPG"
+  content: "We are a family-based Ragdoll cattery registered with the Cat Fanciers' Association (CFA) and The International Cat Association (TICA). Our cattery adheres to traditional bloodlines, breeding large-bodied, silky-coated Ragdolls with sweet and lively personalities within breed standards. All our sires and dams undergo nearly 100 DNA tests and have been certified negative for HCM and PKD, ensuring the health and high quality of our Ragdolls. Our kittens receive up-to-date vaccinations, veterinary examinations, and come with CFA pedigree certificates. We ensure that each kitten is well-socialized with humans and other pets, and we provide ongoing support and guidance for new cat owners. We are located in the Bay Area, California. For more information, please visit our website or contact us."
+  image: "images/family.JPG"
   button:
     enable: true
     label: "Browse All Our Cats"
@@ -24,30 +24,30 @@ features:
 
       # feature item loop
     - title: "Health Guarantee"
-      icon: "tf-ion-ios-bell-outline"
+      icon: "tf-ion-ios-heart-outline"
       content: "2-Year HCM & PKD Free Guarantee, 72-Hour Health Guarantee."
 
       # feature item loop
-    - title: "Vaccinations&Prevention"
+    - title: "Vaccinations & Prevention"
       icon: "tf-ion-ios-bell-outline"
-      content: "Age Appropriate FVRCP, Rabbits, Dewormings + Parasite prevention with Health Record."
+      content: "Three complete shots of FVRCP, rabies, deworming and flea/tick prevention with Health Record."
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Deliver"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Free deliver to Seattle, WA/Portland, OR/Vancouver, BC/Bosten, MA, We can deliver to other states for extra costs."
+    - title: "Free Delivery"
+      icon: "tf-ion-ios-location-outline"
+      content: Free delivery to Bay Area, Los Angeles, Seattle, Portland, Boston, and New York. Delivery to other states available for an additional fee.
 
       # feature item loop
     - title: "Paperwork"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Official CFA Registration Paperwork, Idyllic Ragdoll Contract"
+      icon: "tf-ion-ios-paw-outline"
+      content: "Official CFA Pedigree Registration Paperwork"
 
     #   # feature item loop
-    - title: "2-week Trial Period & On their way home."
-      icon: "tf-ion-ios-cart-outline"
-      content: "We provide a 2-week trial period and A Welcome-Home/Starter Package."
+    - title: "Comprehensive Pet Care Guide"
+      icon: "tf-ion-ios-checkmark-outline"
+      content: "We provide complete pet care guide with detailed instructions and personalized guidance for new cat owners."
 
 ############################# promo ############################
 promo:
