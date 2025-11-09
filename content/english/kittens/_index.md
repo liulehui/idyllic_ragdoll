@@ -3,9 +3,14 @@ title: "Our Adorable Ragdoll Kittens"
 description: "Discover our beautiful Ragdoll kittens - raised with love and care in our home cattery. Each kitten comes with complete health certification and lifetime support."
 
 images: 
-  - "images/kittens/kitten_1.jpg"
-  - "images/kittens/kitten_2.jpg"
-  - "images/kittens/kitten_3.jpg"
+  - "images/kittens/1.jpg"
+  - "images/kittens/2.jpg"
+  - "images/kittens/3.jpg"
+  - "images/kittens/4.jpg"
+  - "images/kittens/5.jpg"
+  - "images/kittens/6.jpg"
+  - "images/kittens/7.jpg"
+  - "images/kittens/8.jpg"
 
 draft: false
 ---

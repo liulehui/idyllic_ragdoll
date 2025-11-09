@@ -28,6 +28,19 @@
                 href="http://localhost:1313/zh/products/"
                 />
   </url><url>
+    <loc>http://localhost:1313/zh/kings/king_3/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/kings/king_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/kings/king_3/"
+                />
+  </url><url>
     <loc>http://localhost:1313/zh/queens/queen_1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -262,6 +275,19 @@
                 href="http://localhost:1313/zh/kings/king_2/"
                 />
   </url><url>
+    <loc>http://localhost:1313/zh/queens/queen_3/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/queens/queen_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/queens/queen_3/"
+                />
+  </url><url>
     <loc>http://localhost:1313/zh/blog/post-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -300,18 +326,6 @@
                 href="http://localhost:1313/zh/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/kittens/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/kittens/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/kittens/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -322,6 +336,18 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/contact/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh/kittens/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/kittens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/kittens/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh/tags/</loc>
