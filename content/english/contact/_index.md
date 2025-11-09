@@ -12,50 +12,42 @@ office:
   location : "Bay Area, CA"
   content : "Even though we are located in the Bay Area, we offer free delivery with a nanny to most major coastal cities including Los Angeles, San Francisco, Seattle, Portland, Boston, and New York. We can also deliver to other states for an additional cost."
 
+adoption_process:
+  title: "选猫与领猫流程"
+  steps:
+    - title: "第一步：咨询与排队"
+      description: "在初步了解并确认没有问题后，支付 $200 排队金 以加入等待名单，我们会告知您的排队顺序。"
+    - title: "第二步：通知选猫"
+      description: "当小猫约两个月大、完成第一针疫苗后，我们会按照排队顺序通知家长进行选猫。"
+    - title: "第三步：确认心仪猫咪"
+      description: "选定喜欢的猫咪后，补交 $300 定金（总定金为 $500，排队金会自动抵扣），并填写领猫信息表。"
+    - title: "第四步：迎接准备"
+      description: "我们会分享《家长指南》，帮助您提前准备猫咪用品、保险及居家布置等，让新家更温暖。"
+    - title: "第五步：确定接猫时间"
+      description: "当小猫约四个月大，完成全部疫苗和绝育恢复后，我们会与您协商合适的接猫时间。"
+    - title: "第六步：迎接新成员"
+      description: "您来接猫或我们送猫到家后，小猫的新生活正式开始。愿它为您的家庭带来无尽的温柔与快乐。"
+    - title: "第七步：资料与血统证书"
+      description: "我们会向您发送每只小猫的医疗与疫苗记录。同时为猫咪申请 CFA（The Cat Fanciers’ Association）血统证书：证书通常在约1个月内由 CFA 官方直接发送至您登记的邮箱。"
 
+adoption_process_en:
+    title: "Kitten Selection and Adoption Process"
+    steps:
+      - title: "Step 1: Consultation and Waitlist"
+        description: "After initial consultation and confirmation, pay a $200 reservation fee to join the waitlist. We will inform you of your place in the queue."
+      - title: "Step 2: Selection Notification"
+        description: "When the kittens are around two months old and have completed their first vaccination, we will notify parents for kitten selection according to the waitlist order."
+      - title: "Step 3: Confirm Your Chosen Kitten"
+        description: "Once you select your favorite kitten, pay the remaining $300 deposit (total deposit is $500, with the reservation fee automatically deducted) and fill out the Idyllic Ragdoll Kitten Adoption Form."
+      - title: "Step 4: Prepare for Arrival"
+        description: "We will share the \"Parent Guide\" to help you prepare kitten supplies, insurance, and home setup in advance, making the new home warmer."
+      - title: "Step 5: Determine Pickup Time"
+        description: "When the kittens are approximately four months old, have completed all vaccinations, and recovered from spay/neuter surgery, we will arrange a suitable pickup time with you."
+      - title: "Step 6: Welcome the New Member"
+        description: "After you pick up the kitten or we deliver it to your home, the kitten's new life officially begins. May it bring endless gentleness and happiness to your family."
+      - title: "Step 7: Documents and Pedigree Certificate"
+        description: "We will send you each kitten's medical and vaccination records. Simultaneously, we will apply for the CFA (The Cat Fanciers’ Association) pedigree certificate for the kitten: the certificate is usually sent directly by the CFA official to your registered email address within approximately 1 month."
 
-selection_process:
-  title: "选猫注意事项"
-  description: "本文件将为您提供每一只可选猫咪的详细信息，帮助您更全面地了解与选择未来的家庭成员。"
-  kitten_info:
-    - "价格"
-    - "照片"
-    - "视频"
-    - "性格简介"
-  selection_methods:
-    title: "家长们可以选择以下两种方式进行选猫："
-    on_site: "上门挑选：欢迎您亲自前来与小猫互动，感受它们的性格与气质。"
-    remote: "远程选猫：您也可以根据猫咪的照片、视频及本文件中的介绍进行挑选。如有需要，我们可安排视频通话或语音连线，让您更直观地了解每一只猫咪的状态与性格。"
-  decision_process:
-    title: "每位家长在收到选猫通知后，将有 一周时间 做出决定："
-    if_selected:
-      title: "若您选定心仪的猫咪："
-      deposit: "请通过 Zelle / Venmo 补交 $300 定金，并填写《领猫信息表》。"
-    if_not_selected:
-      title: "若您暂未遇到合适的小猫："
-      skip: "您可以选择 跳过本胎（skip this litter），请及时告知我们，我们会在下一窝小猫出生后再次与您联系。"
-
-selection_process_en:
-  title: "Kitten Selection Process"
-  description: "This document provides detailed information for each available kitten, helping you gain a comprehensive understanding and select your future family member."
-  kitten_info:
-    - "Price"
-    - "Photo"
-    - "Videos"
-    - "Personality profile"
-  selection_methods:
-    title: "Parents can choose one of the following two ways to select their kitten:"
-    on_site: "On-site Selection: You are welcome to come in person to interact with the kittens and experience their personality and temperament."
-    remote: "Remote Selection: You can also make your selection based on the kitten's photos, videos, and the introductions in this document. If needed, we can arrange a video or voice call to give you a more direct understanding of each kitten's state and personality."
-  decision_process:
-    title: "Each parent will have one week to make a decision after receiving the selection notification:"
-    if_selected:
-      title: "If you select a kitten:"
-      deposit: "Please complete the remaining $300 deposit via Zelle or Venmo, and fill out the 'Idyllic Ragdoll Kitten Adoption Form', which we will send together with kittens profile."
-    if_not_selected:
-      title: "If you have not found a suitable kitten yet:"
-      skip: "You can choose to skip this litter. Please inform us promptly, and we will contact you again after the next litter is born."
-
-
+    
 draft: false
 ---
